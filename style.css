@@ -1,0 +1,46 @@
+nav {
+    background-color: black;
+}
+
+nav a {
+    color: white;
+}
+
+.big-cat {
+    background-image: url(images.jpg);
+    background-size: cover;
+    height: 900px;
+    color: white;
+}
+
+.about-us {
+    background-color: black;
+    color: white;
+}
+
+.card-section {
+    display: flex;
+    
+
+}
+
+
+.card img {
+    width: 200px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.form-section {
+    text-align: center;
+    background-image: url(download\ \(1\).jpg);
+    background-size: cover;
+    height: 900px;
+    color: white;
+}
+
+footer {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
